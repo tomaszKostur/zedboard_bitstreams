@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/tomek/xilinx_projects/axi_full_testing/axi_full_testing.sdk/fsbl2/Debug/fsbl2.elf
+	/home/tomek/xilinx_projects/bitstreams/match_3x3.bit
+	/home/tomek/xilinx_projects/Zedboard_project/u-boot/u-boot.elf
+}

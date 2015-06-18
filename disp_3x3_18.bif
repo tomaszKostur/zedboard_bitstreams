@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/tomek/xilinx_projects/axi_full_stereo_all_row/axi_full_stereo_all_row.sdk/fsbl/Debug/fsbl.elf
+	/home/tomek/xilinx_projects/bitstreams/disp_3x3_18.bit
+	/home/tomek/xilinx_projects/Zedboard_project/u-boot/u-boot.elf
+}

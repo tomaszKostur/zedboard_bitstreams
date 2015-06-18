@@ -1,3 +1,16 @@
+17.06.15
+
+Załączyłem funkcje z przykładem w main jak działają bitstreamy i ich obsługa
+
+BOOT.bin -y w folderach odpowiadają programom sterowników w folderach i zawierają odpowiednie
+bitstreamy
+
+
+
+
+
+// ************************************************************************** //
+
 bitstream "match_3x3.bit" jest bittstreamem zawierającym tylko bloczek
     matchowania 2-uch masek 3x3.
 
